@@ -155,7 +155,7 @@ def fuck():
     print(' [+] OK Ids saved in INNOCENT/OK.txt')
     print(' [+] CP Ids saved in INNOCENT/CP.txt')
     print('==================================================')
-HTOWFIK2(uid,pwx,tl):
+TOWFIK(uid,pwx,tl):
     global loop
     global cps
     global oks
